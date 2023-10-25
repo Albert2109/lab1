@@ -1,6 +1,6 @@
  #  Sana Commerse Software Development Courses '24 
  ___
- [![]](C:\картинки\Sana_Commerce_Logo (2).png)(https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
+ ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
  ## Практична робота №1 
  ____
  ##### Основні завдання
@@ -25,7 +25,7 @@
   У __практичній роботі №2__ потрібно:
   * Створити файл README.md
   * створити файл .gitignore
-  
+
 __Створення файла README.md__
 У файлі README.md повина бути така інформація
 * Заголовки
