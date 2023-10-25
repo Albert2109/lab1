@@ -40,5 +40,7 @@ __Створення файла README.md__
 
 Виконав: Ренькас Альберт
 
+ipz235_rao@student.ztu.edu.ua
+
 
 
